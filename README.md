@@ -2,24 +2,15 @@
 
 ## Contents
 - [AutoML on Graphs](#AutoML)
-  - [Survey](#AutoML-survey)
-  - [Tool](#AutoML-Tool)
   - [Graph Neural Architecture Search](#GNAS)
   - [Graph Hyper-Parameter Optimization](#GHPO)
+  - [Survey](#AutoML-survey)
+  - [Tool](#AutoML-Tool)
 
-This part refers to [[awesome-auto-graph-learning]](https://github.com/THUMNLab/awesome-auto-graph-learning) and completes its code links.
+"""
+This part refers to [[awesome-auto-graph-learning]](https://github.com/THUMNLab/awesome-auto-graph-learning) and adds some new works.    
+"""
 
-<a name="AutoML-survey" />
-
-## Survey
-
-1. **Automated Machine Learning on Graphs: A Survey** [IJCAI 2021] [[paper]](https://arxiv.org/abs/2103.00742)
-
-<a name="AutoML-Tool" />
-
-## Tool
-
-1. **AutoGL: A Library for Automated Graph Learning** [ICLR 2021 GTRL workshop] [[paper]](https://openreview.net/pdf?id=0yHwpLeInDn) [[code]](https://github.com/THUMNLab/AutoGL) [[homepage]](https://mn.cs.tsinghua.edu.cn/AutoGL)
 
 <a name="GNAS" />
 
@@ -96,3 +87,17 @@ This part refers to [[awesome-auto-graph-learning]](https://github.com/THUMNLab/
 ### 2019
 
 1. **AutoNE: Hyperparameter optimization for massive network embedding** [KDD 2019] [[paper]](http://pengcui.thumedialab.com/papers/AutoNE.pdf) [[code]](https://github.com/minjiyoon/ICDM20-AutoGM)
+
+<a name="AutoML-survey" />
+
+## Survey
+
+1. **Automated Machine Learning on Graphs: A Survey** [IJCAI 2021] [[paper]](https://arxiv.org/abs/2103.00742)
+2. **Graph Neural Networks: AutoML** [Springer 2022][[paper](https://link.springer.com/chapter/10.1007/978-981-16-6054-2_17)]
+
+<a name="AutoML-Tool" />
+
+## Tool
+1. **PaSca a Graph Neural Architecture Search System under the Scalable Paradigm** [WWW 2022] [[paper]](https://arxiv.org/abs/2203.00638) [[code]](https://github.com/PKU-DAIR/SGL)[[doc]](sgl-doc.readthedocs.io/en/latest)
+
+2. **AutoGL: A Library for Automated Graph Learning** [ICLR 2021 GTRL workshop] [[paper]](https://openreview.net/pdf?id=0yHwpLeInDn) [[code]](https://github.com/THUMNLab/AutoGL) [[homepage]](https://mn.cs.tsinghua.edu.cn/AutoGL)
