@@ -7,9 +7,7 @@
   - [Survey](#AutoML-survey)
   - [Tool](#AutoML-Tool)
 
-"""
 This part refers to [[awesome-auto-graph-learning]](https://github.com/THUMNLab/awesome-auto-graph-learning) and adds some new works.    
-"""
 
 
 <a name="GNAS" />
